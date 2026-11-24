@@ -11,7 +11,7 @@ config_version=5
 [application]
 
 config/name="Magnum May Opus"
-run/main_scene="uid://bfqot7726chwv"
+run/main_scene="uid://bdtjgmhun7vb8"
 config/features=PackedStringArray("4.6", "Forward Plus")
 config/icon="res://icon.svg"
 
